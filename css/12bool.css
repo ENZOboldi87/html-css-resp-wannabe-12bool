@@ -224,24 +224,7 @@
   .offset-md-12 {
     margin-left: calc((100% / 12) * 12);
   }
-
-  .container img {
-    height: 50px;
-  }
-
-  .container {
-    max-width: 992px;
-    margin: 0 auto;
-    text-align: center;
-    margin-top: 10px;
-  }
-
-   #why .container img {
-    background-color: #428bca;
-    border-radius: 25%;
-    padding: 5px
-  }
-
+  
 }
 /* ends column md */
 
