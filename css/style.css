@@ -22,9 +22,10 @@ img {
 }
 
 @media all and (min-width: 768px) and (max-width: 992px) {
-  
+
   .container img {
     height: 50px;
+    margin-top: 10px;
   }
 
   .container {
